@@ -992,16 +992,7 @@ body {
   }
 }
 
-/* Modo escuro (opcional) */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --white: #0f172a;
-    --gray-50: #1e293b;
-    --gray-100: #334155;
-    --primary-blue: #f8fafc;
-    --gray-500: #94a3b8;
-  }
-}
+
 
 
 
