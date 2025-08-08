@@ -2,7 +2,7 @@
 
 // Configurações globais
 const CONFIG = {
-  TIMER_DURATION: 23 * 3600 + 59 * 60 + 59, // 23:59:59
+  TIMER_DURATION: 23 * 3600 + 59 * 60 + 59, // 16:59:59
   TESTIMONIAL_INTERVAL: 5000, // 5 segundos
   SCROLL_THRESHOLD: 300,
   PAYMENT_URL: 'https://pay.kirvano.com/0684ceea-f311-42cb-8edf-c3fb72cc6178'};
